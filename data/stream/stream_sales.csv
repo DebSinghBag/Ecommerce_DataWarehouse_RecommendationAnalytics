@@ -1,0 +1,2 @@
+sale_id,customer_id,product_id,date_id,quantity,price,total_amount
+6,105,201,20240104,1,500,500
