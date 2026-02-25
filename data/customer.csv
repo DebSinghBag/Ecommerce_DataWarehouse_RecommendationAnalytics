@@ -1,0 +1,5 @@
+customer_id,name,email,city,segment
+101,Rahul,rahul@email.com,Delhi,Premium
+102,Amit,amit@email.com,Mumbai,Standard
+103,Sara,sara@email.com,Kolkata,Premium
+104,Priya,priya@email.com,Bangalore,Standard
